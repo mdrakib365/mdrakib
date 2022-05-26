@@ -1,0 +1,93 @@
+AS58521 – Garena Online Pte Ltd
+Country	 Singapore
+Website	garena.sg
+Hosted domains	60
+Number of IPs	14,336
+ASN type	ISP
+Allocated	2 years ago on Jun 24, 2020
+
+// IP Address Ranges //
+NETBLOCK	              COMPANY
+103.247.205.0/24	      18 Murray Street	
+103.247.206.0/24	      18 Murray Street	
+103.247.207.0/24	      18 Murray Street	
+143.92.112.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.113.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.114.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.115.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.116.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.117.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+143.92.118.0/24	        SHOPEE SINGAPORE PRIVATE LIMITED
+
+// Hosted Domains //
+IP ADDRESS	    DOMAIN
+202.81.112.198	pagostore.com
+103.247.207.173	garena.com
+103.247.207.171	championslegion.com.br
+103.247.207.139	seatalk.io
+103.247.207.163	tiendafreefire.com
+143.92.120.30	freefiremobile.com
+202.81.116.211	saelcloud.com
+202.81.120.89	sea.com
+202.81.116.209	happybuy.sg
+143.92.121.198	garena.ru
+
+// Peers //
+PEERS	NAME
+AS137831	SEA IX
+AS23884	Proen Corp Public Company Limited.
+AS25933	Vogel Soluções em Telecom e Informática S/A
+AS3549	Level 3 Parent, LLC
+
+// UPSTREAMS //
+
+UPSTREAMS	NAME
+AS137831	SEA IX
+AS23884	Proen Corp Public Company Limited.
+AS25933	Vogel Soluções em Telecom e Informática S/A
+AS3549	Level 3 Parent, LLC
+
+// Related Networks //
+Related Networks
+
+AS131236
+Genworx Pte Ltd
+
+AS132293
+GOVERNMENT TECHNOLOGY AGENCY
+
+AS133472
+TECHLINKZ SOLUTIONS
+
+AS136149
+MediaCorp Pte Ltd
+
+AS136817
+Sony Electronics (S) Pte. Ltd
+
+AS137182
+BLUE WIRELESS PTE LTD
+
+// DOMAIN INFORMATION //
+Domain Name:
+FREEFIRE.NET
+
+Other IP addresses utilized
+94.229.72.123
+94.229.72.124
+162.210.196.173
+103.224.182.241
+199.115.116.162
+199.59.242.153
+103.224.212.222
+94.229.72.119
+94.229.72.115
+162.210.196.172
+94.229.72.121
+
+Forward DNS primary host:
+above.com
+park-mx.above.com
+Forward DNS expanded data:
+freefire.net has address 103.224.182.241
+freefire.net mail is handled by 10 park-mx.above.com.
